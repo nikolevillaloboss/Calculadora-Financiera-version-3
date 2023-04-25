@@ -1,0 +1,56 @@
+C:\Users\mader\source\repos\Calculadora_Financiera\bin\Debug\net6.0-windows\Calculadora_Financiera.exe
+C:\Users\mader\source\repos\Calculadora_Financiera\bin\Debug\net6.0-windows\Calculadora_Financiera.deps.json
+C:\Users\mader\source\repos\Calculadora_Financiera\bin\Debug\net6.0-windows\Calculadora_Financiera.runtimeconfig.json
+C:\Users\mader\source\repos\Calculadora_Financiera\bin\Debug\net6.0-windows\Calculadora_Financiera.dll
+C:\Users\mader\source\repos\Calculadora_Financiera\bin\Debug\net6.0-windows\Calculadora_Financiera.pdb
+C:\Users\mader\source\repos\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.csproj.AssemblyReference.cache
+C:\Users\mader\source\repos\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.Form1.resources
+C:\Users\mader\source\repos\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.Form2.resources
+C:\Users\mader\source\repos\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.csproj.GenerateResource.cache
+C:\Users\mader\source\repos\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mader\source\repos\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.AssemblyInfoInputs.cache
+C:\Users\mader\source\repos\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.AssemblyInfo.cs
+C:\Users\mader\source\repos\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.csproj.CoreCompileInputs.cache
+C:\Users\mader\source\repos\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.dll
+C:\Users\mader\source\repos\Calculadora_Financiera\obj\Debug\net6.0-windows\refint\Calculadora_Financiera.dll
+C:\Users\mader\source\repos\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.pdb
+C:\Users\mader\source\repos\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.genruntimeconfig.cache
+C:\Users\mader\source\repos\Calculadora_Financiera\obj\Debug\net6.0-windows\ref\Calculadora_Financiera.dll
+C:\Users\mader\source\repos\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.Bienvenida.resources
+C:\Users\mader\source\repos\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.Datos_Préstamo.resources
+C:\Users\mader\source\repos\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.Properties.Resources.resources
+C:\Users\mader\source\repos\Calculadora2.0-main\Calculadora2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.csproj.AssemblyReference.cache
+C:\Users\mader\source\repos\Calculadora2.0-main\Calculadora2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.Bienvenida.resources
+C:\Users\mader\source\repos\Calculadora2.0-main\Calculadora2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.Datos_Préstamo.resources
+C:\Users\mader\source\repos\Calculadora2.0-main\Calculadora2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.Form1.resources
+C:\Users\mader\source\repos\Calculadora2.0-main\Calculadora2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.Form2.resources
+C:\Users\mader\source\repos\Calculadora2.0-main\Calculadora2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.Properties.Resources.resources
+C:\Users\mader\source\repos\Calculadora2.0-main\Calculadora2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.csproj.GenerateResource.cache
+C:\Users\mader\source\repos\Calculadora2.0-main\Calculadora2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mader\source\repos\Calculadora2.0-main\Calculadora2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.AssemblyInfoInputs.cache
+C:\Users\mader\source\repos\Calculadora2.0-main\Calculadora2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.AssemblyInfo.cs
+C:\Users\mader\source\repos\Calculadora2.0-main\Calculadora2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.csproj.CoreCompileInputs.cache
+C:\Users\mader\source\repos\Calculadora2.0-main\Calculadora2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.dll
+C:\Users\mader\source\repos\Calculadora2.0-main\Calculadora2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\refint\Calculadora_Financiera.dll
+C:\Users\mader\source\repos\Calculadora2.0-main\Calculadora2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.pdb
+C:\Users\Nikole\Downloads\CalculadoraFinanciera2.0-main (1)\CalculadoraFinanciera2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.csproj.AssemblyReference.cache
+C:\Users\Nikole\Downloads\CalculadoraFinanciera2.0-main (1)\CalculadoraFinanciera2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.Bienvenida.resources
+C:\Users\Nikole\Downloads\CalculadoraFinanciera2.0-main (1)\CalculadoraFinanciera2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.Datos_Préstamo.resources
+C:\Users\Nikole\Downloads\CalculadoraFinanciera2.0-main (1)\CalculadoraFinanciera2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.Form1.resources
+C:\Users\Nikole\Downloads\CalculadoraFinanciera2.0-main (1)\CalculadoraFinanciera2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.Form2.resources
+C:\Users\Nikole\Downloads\CalculadoraFinanciera2.0-main (1)\CalculadoraFinanciera2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.Properties.Resources.resources
+C:\Users\Nikole\Downloads\CalculadoraFinanciera2.0-main (1)\CalculadoraFinanciera2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.csproj.GenerateResource.cache
+C:\Users\Nikole\Downloads\CalculadoraFinanciera2.0-main (1)\CalculadoraFinanciera2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikole\Downloads\CalculadoraFinanciera2.0-main (1)\CalculadoraFinanciera2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.AssemblyInfoInputs.cache
+C:\Users\Nikole\Downloads\CalculadoraFinanciera2.0-main (1)\CalculadoraFinanciera2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.AssemblyInfo.cs
+C:\Users\Nikole\Downloads\CalculadoraFinanciera2.0-main (1)\CalculadoraFinanciera2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.csproj.CoreCompileInputs.cache
+C:\Users\Nikole\Downloads\CalculadoraFinanciera2.0-main (1)\CalculadoraFinanciera2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.dll
+C:\Users\Nikole\Downloads\CalculadoraFinanciera2.0-main (1)\CalculadoraFinanciera2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\refint\Calculadora_Financiera.dll
+C:\Users\Nikole\Downloads\CalculadoraFinanciera2.0-main (1)\CalculadoraFinanciera2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.pdb
+C:\Users\Nikole\Downloads\CalculadoraFinanciera2.0-main (1)\CalculadoraFinanciera2.0-main\Calculadora_Financiera\bin\Debug\net6.0-windows\Calculadora_Financiera.exe
+C:\Users\Nikole\Downloads\CalculadoraFinanciera2.0-main (1)\CalculadoraFinanciera2.0-main\Calculadora_Financiera\bin\Debug\net6.0-windows\Calculadora_Financiera.deps.json
+C:\Users\Nikole\Downloads\CalculadoraFinanciera2.0-main (1)\CalculadoraFinanciera2.0-main\Calculadora_Financiera\bin\Debug\net6.0-windows\Calculadora_Financiera.runtimeconfig.json
+C:\Users\Nikole\Downloads\CalculadoraFinanciera2.0-main (1)\CalculadoraFinanciera2.0-main\Calculadora_Financiera\bin\Debug\net6.0-windows\Calculadora_Financiera.dll
+C:\Users\Nikole\Downloads\CalculadoraFinanciera2.0-main (1)\CalculadoraFinanciera2.0-main\Calculadora_Financiera\bin\Debug\net6.0-windows\Calculadora_Financiera.pdb
+C:\Users\Nikole\Downloads\CalculadoraFinanciera2.0-main (1)\CalculadoraFinanciera2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\Calculadora_Financiera.genruntimeconfig.cache
+C:\Users\Nikole\Downloads\CalculadoraFinanciera2.0-main (1)\CalculadoraFinanciera2.0-main\Calculadora_Financiera\obj\Debug\net6.0-windows\ref\Calculadora_Financiera.dll
